@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'NEC SYSTEMS',
     description: 'Your official growth partner.',
     icon: '/img/logo.svg',
-    listUrl: 'https://Diaexpress.github.io/NEC-WORKSPACE/',
+    listUrl: 'https://diaexpress.github.io/NEC-WORKSPACE/',
     contactUrl: 'https://github.com/Diaexpress/NEC-WORKSPACE/issues',
   },
   reactStrictMode: true,
