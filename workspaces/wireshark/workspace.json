@@ -1,0 +1,29 @@
+{
+  "description": "Wireshark is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education.",
+  "docker_registry": "https://ghcr.io/",
+  "image_src": "wireshark.png",
+  "name": "lscr.io/linuxserver/wireshark:latest",
+  "run_config": {
+    "security_opt": [
+      "seccomp=unconfined"
+    ],
+    "entrypoint": [
+      "/kasminit"
+    ],
+    "user": 1000
+  },
+  "exec_config": {},
+  "categories": [
+    "Development"
+  ],
+  "friendly_name": "Wireshark",
+  "architecture": [
+    "amd64",
+    "arm64"
+  ],
+  "compatibility": [
+    "1.13.x",
+    "1.14.x"
+  ],
+  "uncompressed_size_mb": 1260
+}
