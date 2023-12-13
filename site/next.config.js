@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'NEC SYSTEMS',
+    description: 'Your official growth partner.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://Diaexpress.github.io/NEC-WORKSPACE/',
+    contactUrl: 'https://github.com/Diaexpress/NEC-WORKSPACE/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
