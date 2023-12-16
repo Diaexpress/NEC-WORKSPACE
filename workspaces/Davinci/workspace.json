@@ -1,0 +1,25 @@
+{
+  "friendly_name": "Davinci",
+  "description": "Escritorio Maker con software de diseño e impresion",
+  "docker_registry": "https://docker.mapache.xyz/v1/",
+  "image_src": "davinci.png",
+  "name": "docker.mapache.xyz/kasm-davinci:latest",
+  "run_config": {
+    "hostname": "Davinci",
+    "security_opt": ["seccomp=unconfined"],
+    "shm_size": "1gb"
+  },
+  "exec_config": {
+  },
+  "categories": [
+    "Desktop","3D"
+  ],
+  "architecture": [
+    "amd64"
+  ],
+  "compatibility": [
+    "1.13.x",
+    "1.14.x"
+  ],
+  "uncompressed_size_mb": 17291
+}
