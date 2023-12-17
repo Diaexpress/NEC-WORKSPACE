@@ -2,7 +2,7 @@
   "friendly_name": "Black Arch",
   "image_src": "Black.png",
   "description": "BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers.",
-  "name": "blackarchlinux/blackarch",
+  "name": "blackarchlinux/blackarch:latest",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
