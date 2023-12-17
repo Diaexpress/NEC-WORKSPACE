@@ -1,6 +1,6 @@
 {
   "friendly_name": "Black Arch",
-  "image_src": "blob:https://kasmregistry.linuxserver.io/d038f6dd-3259-475f-8ec0-e856b11b47d3",
+  "image_src": "Black.png",
   "description": "BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers.",
   "name": "blackarchlinux/blackarch",
   "cores": 2,
