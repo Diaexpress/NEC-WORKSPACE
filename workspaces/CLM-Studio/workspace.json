@@ -1,6 +1,6 @@
 {
   "description": "Customized Ubuntu 22.04 desktop with LM Studio",
-  "docker_registry": "http://localhost:32768/",
+  "docker_registry": "http://localhost:32768/v2/",
   "image_src": "lmstudio.png",
   "name": "kasm-lmstudio:latest",
   "friendly_name": "CLM Studio",
